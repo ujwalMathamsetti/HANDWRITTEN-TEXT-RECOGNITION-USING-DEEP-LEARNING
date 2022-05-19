@@ -18,7 +18,7 @@ The block diagram above shows how a deployment model works
  
 •	Developing an Application for the Flask to Serve the Model. In the process of developing, an HTML file is required for the user to give an input image
 
-•	Integrating the saved model with the HTML file using APIs (Application Programming Interface) 
+•	Integrating the saved .h5 model with the HTML file using APIs (Application Programming Interface) 
 
 •	According to the figure above, when a user selects an image on the web screen and submits it, the image loads in the flask where the saved CNN model was integrated, and the results are predicted on the web screen.
 

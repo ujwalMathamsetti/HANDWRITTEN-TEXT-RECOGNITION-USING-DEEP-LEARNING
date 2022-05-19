@@ -3,4 +3,5 @@ Handwritten text recognition (HTR) is a technique for receiving and interpreting
 
 
 ![image](https://user-images.githubusercontent.com/94397783/169290830-80b286dd-a6ad-497c-ace7-dbd8ccce9214.jpeg)
+
 The block diagram above shows how a deployment model works
